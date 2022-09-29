@@ -1,0 +1,17 @@
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\bin\Debug\net6.0-windows\kaixoMundua.exe
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\bin\Debug\net6.0-windows\kaixoMundua.deps.json
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\bin\Debug\net6.0-windows\kaixoMundua.runtimeconfig.json
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\bin\Debug\net6.0-windows\kaixoMundua.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\bin\Debug\net6.0-windows\kaixoMundua.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.Form1.resources
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.csproj.GenerateResource.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.AssemblyInfoInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.AssemblyInfo.cs
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\refint\kaixoMundua.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\kaixoMundua.genruntimeconfig.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\kaixoMundua\kaixoMundua\obj\Debug\net6.0-windows\ref\kaixoMundua.dll
