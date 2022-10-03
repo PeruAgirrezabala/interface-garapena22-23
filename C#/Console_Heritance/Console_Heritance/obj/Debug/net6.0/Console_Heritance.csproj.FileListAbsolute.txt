@@ -1,0 +1,15 @@
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\bin\Debug\net6.0\Console_Heritance.exe
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\bin\Debug\net6.0\Console_Heritance.deps.json
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\bin\Debug\net6.0\Console_Heritance.runtimeconfig.json
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\bin\Debug\net6.0\Console_Heritance.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\bin\Debug\net6.0\Console_Heritance.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.AssemblyInfoInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.AssemblyInfo.cs
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\refint\Console_Heritance.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\Console_Heritance.genruntimeconfig.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\Console_Heritance\Console_Heritance\obj\Debug\net6.0\ref\Console_Heritance.dll
