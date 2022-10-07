@@ -1,0 +1,6 @@
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\bin\Debug\KaixoDII.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\bin\Debug\KaixoDII.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\obj\Debug\KaixoDll.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\obj\Debug\KaixoDll.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\obj\Debug\KaixoDII.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\KaixoDII\KaixoDII\obj\Debug\KaixoDII.pdb
