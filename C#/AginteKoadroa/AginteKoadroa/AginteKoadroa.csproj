@@ -99,6 +99,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Bezeroa.cs" />
+    <Compile Include="Model\Salmenta.cs" />
+    <Compile Include="Model\SalmentaDbContext.cs" />
+    <Compile Include="Model\Saltzailea.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
