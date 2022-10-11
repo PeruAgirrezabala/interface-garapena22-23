@@ -1,0 +1,16 @@
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.UserControl1.resources
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C#\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.UserControl1.resources
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\GrafikoaDll\GrafikoaDll\obj\Debug\GrafikoaDll.pdb
