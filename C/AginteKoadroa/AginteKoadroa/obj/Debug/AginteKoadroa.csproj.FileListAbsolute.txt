@@ -43,6 +43,7 @@ C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\Agi
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework.dll
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDll.dll
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\Npgsql.dll
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\System.Buffers.dll
@@ -56,6 +57,7 @@ C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\Agi
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework.xml
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDll.pdb
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\Npgsql.pdb
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\Npgsql.xml
@@ -76,5 +78,3 @@ C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\Agi
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.CopyComplete
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.exe
 C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.pdb
-C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDll.dll
-C:\Users\agirrezabala.peru\Documents\interface-garapena22-23\C\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDll.pdb

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AginteKoadroa"
+    "\\AginteKoadroa",
+    "\\AginteKoadroa\\Model"
   ],
-  "SelectedNode": "\\AginteKoadroa\\Form1.cs",
+  "SelectedNode": "\\AginteKoadroa\\App.config",
   "PreviewInSolutionExplorer": false
 }

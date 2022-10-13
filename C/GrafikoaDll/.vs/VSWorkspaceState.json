@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GrafikoaDll"
+    "\\GrafikoaDll",
+    "\\GrafikoaDll\\bin",
+    "\\GrafikoaDll\\obj",
+    "\\GrafikoaDll\\Properties"
   ],
-  "SelectedNode": "\\GrafikoaDll.sln",
   "PreviewInSolutionExplorer": false
 }
