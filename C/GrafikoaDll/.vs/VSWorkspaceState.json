@@ -3,8 +3,11 @@
     "",
     "\\GrafikoaDll",
     "\\GrafikoaDll\\bin",
+    "\\GrafikoaDll\\bin\\Release",
     "\\GrafikoaDll\\obj",
+    "\\GrafikoaDll\\obj\\Release",
     "\\GrafikoaDll\\Properties"
   ],
+  "SelectedNode": "\\GrafikoaDll.sln",
   "PreviewInSolutionExplorer": false
 }
