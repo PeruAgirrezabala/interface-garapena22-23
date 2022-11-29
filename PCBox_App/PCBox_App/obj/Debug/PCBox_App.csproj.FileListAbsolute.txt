@@ -1,0 +1,101 @@
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\PCBox_App.exe.config
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\PCBox_App.exe
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\PCBox_App.pdb
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.csproj.SuggestedBindingRedirects.cache
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.Properties.Resources.resources
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.exe
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.pdb
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.frmHome.resources
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.frmMain.resources
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Npgsql.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Buffers.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Collections.Immutable.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Memory.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Numerics.Vectors.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Text.Json.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Threading.Channels.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.ValueTuple.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\Npgsql.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Buffers.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Collections.Immutable.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Memory.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Numerics.Vectors.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Text.Json.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Threading.Channels.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\System.ValueTuple.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.csproj.CopyComplete
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.frmProduktuSalduenak.resources
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\DLLProduktuSalduenak.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\DLLProduktuSalduenak.pdb
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Goi mailako zikloa\DAM_2\ERRONKAK\Ethazi_1\GitHub\PCBox_App\obj\Debug\PCBox_App.Frames.frmKatalogoa.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\PCBox_App.exe.config
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\PCBox_App.exe
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\PCBox_App.pdb
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Npgsql.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Buffers.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Collections.Immutable.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Memory.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Text.Json.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Threading.Channels.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.ValueTuple.dll
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\DLLProduktuSalduenak.pdb
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\Npgsql.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Buffers.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Collections.Immutable.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Memory.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Text.Json.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Threading.Channels.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\bin\Debug\System.ValueTuple.xml
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.frmHome.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.Frames.frmKatalogoa.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.frmMain.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.frmProduktuSalduenak.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.Properties.Resources.resources
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.csproj.GenerateResource.cache
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.csproj.CopyComplete
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.exe
+C:\Users\agirrezabala.peru\Desktop\PCBox_App\PCBox_App\obj\Debug\PCBox_App.pdb
