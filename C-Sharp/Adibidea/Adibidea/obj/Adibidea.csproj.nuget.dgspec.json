@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\Adibidea.csproj": {}
+    "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\Adibidea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\Adibidea.csproj": {
+    "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\Adibidea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\Adibidea.csproj",
+        "projectUniqueName": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\Adibidea.csproj",
         "projectName": "Adibidea",
-        "projectPath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\Adibidea.csproj",
+        "projectPath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\Adibidea.csproj",
         "packagesPath": "C:\\Users\\agirrezabala.peru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\obj\\",
+        "outputPath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3lVDnY6FmtCQ0sJDas2L29yc09dyo7BlxXpBrwG+NNItnXwOXqeEuyQwKgJcjU4gPrGF42zAGOFIUpIYXkyOYA==",
+  "dgSpecHash": "+gUrZ6ev/b8Dum5rb0dWVRalOFPJUvev2MBxP/5oKsipmn9c+CQFz9R/bcEuGC9PEpYuxSEofkzXefItGXklww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C#\\Adibidea\\Adibidea\\Adibidea.csproj",
+  "projectFilePath": "C:\\Users\\agirrezabala.peru\\Documents\\interface-garapena22-23\\C-Sharp\\Adibidea\\Adibidea\\Adibidea.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agirrezabala.peru\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\agirrezabala.peru\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
